@@ -1,13 +1,13 @@
 package revisao.conceitos.poo.exercicios.Carro;
 
 public class Carro {
-    private String MarcaDoCarro;
-    private String ModeloDoCarro;
+    private String marcaDoCarro;
+    private String modeloDoCarro;
     private int anoDoCarro;
 
     public Carro(String marcaDoCarro, String modeloDoCarro, int anoDoCarro) {
-        MarcaDoCarro = marcaDoCarro;
-        ModeloDoCarro = modeloDoCarro;
+        this.marcaDoCarro = marcaDoCarro;
+        this.modeloDoCarro = modeloDoCarro;
         this.anoDoCarro = anoDoCarro;
     }
 
@@ -15,14 +15,17 @@ public class Carro {
     }
 
     public Carro(String marcaDoCarro, String modeloDoCarro) {
-        MarcaDoCarro = marcaDoCarro;
-        ModeloDoCarro = modeloDoCarro;
+        this.marcaDoCarro = marcaDoCarro;
+        this.modeloDoCarro = modeloDoCarro;
     }
 
     public void exibirDetalhes(){
         System.out.println("---------------------------------");
-        System.out.println("Marca do carro: " + MarcaDoCarro);
-        System.out.println("Modelo do carro: " + ModeloDoCarro);
+        /*return "Modelo do Carro: "+ marcaDoCarro+
+        "Modelo do carro: " + modeloDoCarro+
+        "Ano do carro: " + anoDoCarro;*/
+        System.out.println("Marca do carro: " + marcaDoCarro);
+        System.out.println("Modelo do carro: " + modeloDoCarro);
         System.out.println("Ano do carro: " + anoDoCarro);
     }
 }
