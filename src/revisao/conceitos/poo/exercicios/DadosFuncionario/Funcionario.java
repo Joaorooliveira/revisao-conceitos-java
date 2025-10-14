@@ -12,6 +12,5 @@ public class Funcionario {
         this.nome = nome;
         this.cargo = cargo;
         this.idade = idade;
-
     }
 }
