@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.Heranca;
+package revisao.conceitos.poo.exercicios.Heranca.Veiculo;
 
 public class Veiculo {
 
