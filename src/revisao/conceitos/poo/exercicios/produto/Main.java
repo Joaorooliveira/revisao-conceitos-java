@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.Produto;
+package revisao.conceitos.poo.exercicios.produto;
 
 public class Main {
     public static void main(String[] args) {

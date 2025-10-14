@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.DadosPersonagem;
+package revisao.conceitos.poo.exercicios.dadospersonagem;
 
 public class Main {
 

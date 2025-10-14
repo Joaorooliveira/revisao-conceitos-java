@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.Produto;
+package revisao.conceitos.poo.exercicios.produto;
 
 public class Produto {
 

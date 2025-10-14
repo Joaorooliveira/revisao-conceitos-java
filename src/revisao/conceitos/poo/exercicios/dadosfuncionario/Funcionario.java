@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.DadosFuncionario;
+package revisao.conceitos.poo.exercicios.dadosfuncionario;
 
 public class Funcionario {
     String nome;

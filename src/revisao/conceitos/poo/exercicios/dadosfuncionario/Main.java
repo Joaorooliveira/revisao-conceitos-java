@@ -1,6 +1,4 @@
-package revisao.conceitos.poo.exercicios.DadosFuncionario;
-
-import javax.swing.*;
+package revisao.conceitos.poo.exercicios.dadosfuncionario;
 
 public class Main
 {

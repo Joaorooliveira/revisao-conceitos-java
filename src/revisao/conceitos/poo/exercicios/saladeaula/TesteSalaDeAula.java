@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.SalaDeAula;
+package revisao.conceitos.poo.exercicios.saladeaula;
 
 public class TesteSalaDeAula {
     public static void main(String[] args) {

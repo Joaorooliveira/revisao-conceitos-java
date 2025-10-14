@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.Carro;
+package revisao.conceitos.poo.exercicios.carro;
 
 public class Carro {
     private String marcaDoCarro;

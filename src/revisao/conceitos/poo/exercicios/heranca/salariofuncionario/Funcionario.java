@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.Heranca.SalarioFuncionario;
+package revisao.conceitos.poo.exercicios.heranca.salariofuncionario;
 
 public class Funcionario {
 

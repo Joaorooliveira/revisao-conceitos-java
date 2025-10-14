@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.DadosPessoa;
+package revisao.conceitos.poo.exercicios.dadospessoa;
 
 public class Aplicacao {
     public static void main(String[] args) {

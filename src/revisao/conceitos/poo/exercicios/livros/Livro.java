@@ -1,4 +1,4 @@
-package revisao.conceitos.poo.exercicios.Livros;
+package revisao.conceitos.poo.exercicios.livros;
 
 public class Livro {
     public String titulo;
