@@ -28,7 +28,7 @@ public class setExercise {
         set.add(9);
         System.out.println(set);
 
-        //Limpar toda a colecaoo
+        //Limpar toda a colecao
         set.clear();
         System.out.println(set);
     }
