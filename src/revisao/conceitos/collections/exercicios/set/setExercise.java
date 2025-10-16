@@ -19,7 +19,7 @@ public class setExercise {
 
         System.out.println(set);
 
-        //Verifica sem contem esse numero especifico na collection
+        //Verifica sem contem esse numero especifico na collection.
         System.out.println(set.contains(3));
 
         set.remove(3);
