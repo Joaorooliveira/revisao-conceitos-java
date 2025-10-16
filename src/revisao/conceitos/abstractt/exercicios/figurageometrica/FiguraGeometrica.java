@@ -1,4 +1,4 @@
-package revisao.conceitos.abstractt.figurageometrica;
+package revisao.conceitos.abstractt.exercicios.figurageometrica;
 
 abstract public class FiguraGeometrica {
 
