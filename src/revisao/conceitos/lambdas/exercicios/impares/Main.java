@@ -13,7 +13,7 @@ public class Main {
         numeros.add(4);
         numeros.add(5);
         numeros.removeIf(numero -> numero % 2 == 0);
-        System.out.println("Numeros impares: "+numeros);
+        System.out.println(numeros);
 
 
 
