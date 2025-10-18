@@ -11,6 +11,7 @@ public class Funcionario {
     }
 
     public void addAumento(double valor){
+
         salario+=valor;
     }
     public double ganhoAnual(){
