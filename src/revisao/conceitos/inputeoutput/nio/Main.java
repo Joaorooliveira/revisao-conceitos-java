@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
         try {
-            Path path = Paths.get("meuArquivo2.txt");
+            Path path = Paths.get("meuArquivoo2.txt");
 
             //Escrevendo em um arquivo
             Files.write(path, "Hello World".getBytes());
